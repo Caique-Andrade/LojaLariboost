@@ -1,0 +1,11 @@
+LARIBOOST — LANDING PAGE
+
+1. Abra index.html no navegador ou com Live Server no VS Code.
+2. Para publicar no GitHub Pages, Netlify ou Cloudflare Pages, envie a pasta com index.html, style.css, script.js e assets/.
+3. O WhatsApp está configurado para +55 11 99392-3771 em todos os botões.
+4. Para trocar o número: atualize PHONE em script.js e os links diretos no index.html.
+5. Para trocar fotos: substitua os arquivos da pasta assets mantendo seus nomes, ou altere o atributo src no index.html.
+6. Para atualizar produtos: altere os cartões <article class="product"> em index.html. data-name é o nome enviado ao WhatsApp e data-cat é o filtro.
+7. Valores, estoque, tamanhos e condições de entrega não foram inventados: são consultados com a loja.
+8. Os blocos de acessórios e perfumes são chamadas de catálogo, não anúncios de produtos específicos.
+9. Para medir conversões reais, configure Analytics/Tag Manager e eventos de clique com consentimento adequado.
